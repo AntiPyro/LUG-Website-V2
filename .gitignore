@@ -1,0 +1,9 @@
+# ignore file
+
+# materialize files
+#materialize.css
+#materialize.min.css
+#materialize.js
+#materialize.min.js
+#fonts/
+#LICENSE
